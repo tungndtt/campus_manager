@@ -7,8 +7,8 @@ This is a toy GUI application for managing the students/courses/professors in an
 
 
 # Functionalities
-- Insert students/modules/professors
-![Insert](./demo/insert.png)
+- Add students/modules/professors 
+![Add](./demo/add.png)
 
 - Search for students/modules/professors based on given name
 ![Search](./demo/search.png)
